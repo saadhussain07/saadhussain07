@@ -1,23 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23639
-Fork on GitHub
-8108
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Muhammad Saad Hussain</h1>
 <h3 align="center">Aspiring DevOps Engineer • Linux · Automation · CI/CD · Cloud</h3>
 
@@ -53,25 +34,7 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhussain07&" alt="saadhussain07" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
+
 Pull Requests
 Join Community
 Discord of the community
