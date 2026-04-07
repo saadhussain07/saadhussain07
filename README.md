@@ -32,4 +32,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-sername=saadhussain07&limit=5&theme=dark&combine_all_yearly_contributions=true)
