@@ -1,34 +1,137 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Hussain</h1>
-<h3 align="center">BS CS student focused on DevOps → GitOps, AIOps & MLOps, building intelligent, automated systems.</h3>
+<h3 align="center">DevOps Engineer · AIOps Researcher · IEEE TNSM Author</h3>
+<h4 align="center">BS CS @ University of Lahore (Sargodha Campus) · PITB Lahore</h4>
 
-
-- 🔭 I’m currently working on [ArgoCD GitOps Projects](https://github.com/saadhussain07/flask-gitops-argocd-kubernetes-Project)
-
-- 🌱 I’m currently learning **AiOps**
-
-- 👯 I’m looking to collaborate on **Research Paper on AiOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/saadhussain07](https://github.com/saadhussain07)
-
-- 📝 I am working on a research paper on AiOps [Coming soon](Coming soon)
-
-- 💬 Ask me about **Anything realted to DevOps**
-
-- 📫 How to reach me **muhammadsaadhussain49@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/saadhussain07](https://github.com/saadhussain07)
-
-- ⚡ Fun fact **Calm on the outside, chaotic in my terminal 🖥️😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadhussain07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/saadhussain07?tab=followers">
+    <img src="https://img.shields.io/github/followers/saadhussain07?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhussain07&" alt="saadhussain07" /></p>
+## 🚀 About Me
 
+- 🔬 **Researcher** — Submitted paper to **IEEE Transactions on Network and Service Management (TNSM)**:  
+  *"A Multi-Agent LLM-Driven AIOps Framework for Autonomous Fault Detection and Remediation in Cloud-Native Systems"*
+
+- 🏢 **Interning at** [Punjab Information Technology Board (PITB)](https://pitb.gov.pk/), Lahore
+
+- 🛠️ **DevOps Engineer** with hands-on experience in Linux, Docker, Kubernetes, AWS, Terraform, Ansible, ArgoCD, and CI/CD pipelines
+
+- 🤖 **AIOps enthusiast** — building intelligent, self-healing cloud-native systems using LLM agents
+
+- 📈 **Currently exploring** — MLOps, DevSecOps, and AI-powered infrastructure automation
+
+- 💬 **Ask me about** — DevOps, Kubernetes, AIOps, GitOps, CI/CD, Cloud Infrastructure
+
+- 📫 **Reach me at** — muhammadsaadhussain49@gmail.com
+
+- ⚡ **Fun fact** — Calm on the outside, chaotic in my terminal 🖥️😂
+
+---
+
+## 🧠 Research
+
+| Paper | Journal | Status |
+|-------|---------|--------|
+| A Multi-Agent LLM-Driven AIOps Framework for Autonomous Fault Detection and Remediation in Cloud-Native Systems | IEEE Transactions on Network and Service Management (TNSM) | ⏳ Under Review |
+
+**Key contributions:**
+- Novel **Runtime Anomaly Agent** using ReAct reasoning pattern
+- **Multi-Signal Context Fusion** — Prometheus metrics + Loki logs + Jaeger traces
+- **Confidence-Gated Execution** (θ = 0.85) for safe autonomous remediation
+- Validated on live Kubernetes cluster — F1: 0.86, MTTR: 30s, RCA accuracy: 82%
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
+</p>
+
+### 🔁 CI/CD & Version Control
+<p>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+</p>
+
+### 📊 Observability & AIOps
+<p>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="loki" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jaegertracing/jaegertracing-icon.svg" alt="jaeger" width="40" height="40"/>
+</p>
+
+### 🐧 OS & Scripting
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🤖 AIOps K8s Framework](https://github.com/saadhussain07) | Multi-Agent LLM system for autonomous fault detection & remediation in Kubernetes | Python, LLM, Prometheus, Loki, Jaeger, K8s |
+| [⚙️ Flask GitOps ArgoCD](https://github.com/saadhussain07/flask-gitops-argocd-kubernetes-Project) | End-to-end GitOps pipeline with ArgoCD on Kubernetes | Flask, Docker, K8s, ArgoCD, Helm |
+| [📚 DevOps Journey](https://github.com/saadhussain07/My_DevOps_Journey) | Complete DevOps learning roadmap with resources & progress tracking | Shell, Markdown |
+| [🐧 DevOps Linux Scripts](https://github.com/saadhussain07/devops-linux) | Practical Bash automation scripts for DevOps workflows | Bash, Linux |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadhussain07&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhussain07&theme=tokyonight&hide_border=true" alt="streak" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhussain07&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" width="40%"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-saad-hussain-28435b3a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:muhammadsaadhussain49@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://github.com/saadhussain07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://orcid.org/0009-0003-9132-9986" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid"/>
+  </a>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+<p align="center">⭐ If you find my work useful, consider giving a star to my repositories!</p>
