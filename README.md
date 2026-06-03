@@ -99,17 +99,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadhussain07&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhussain07&theme=tokyonight&hide_border=true" alt="streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhussain07&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" width="40%"/>
-</p>
-
----
 
 ## 🤝 Connect with Me
 
