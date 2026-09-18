@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Saad+Hussain;DevOps+Engineer+%7C+AIOps+Researcher;IEEE+TNSM+Author+%7C+Cloud-Native+Builder;Building+Self-Healing+Systems+with+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Saad+Hussain;DevOps+Engineer+%7C+AIOps+Researcher;Cloud-Native+Builder+%7C+Kubernetes+%2B+LLMs;Building+Telemetry-Driven+Self-Healing+Systems" alt="Typing SVG" />>
 
 <br/>
 
@@ -26,37 +26,46 @@
 
 ---
 
-## 🔬 IEEE Research — *Under Review*
+## 🔬 Research — *Under Review*
 
-> **"A Multi-Agent LLM-Driven AIOps Framework for Autonomous Fault Detection and Remediation in Cloud-Native Systems"**
-> *IEEE Transactions on Network and Service Management (TNSM)*
+> **"A Telemetry-Driven LLM-Agent Framework for Fault Detection and Advisory Remediation in Cloud-Native Kubernetes Systems"**
+> *Future Generation Computer Systems* (Elsevier) · Manuscript `FGCS-D-26-05108`
+> 📦 [Code & Data](https://github.com/saadhussain07/fgcs-aiops-llm-agent) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22816805.svg)](https://doi.org/10.5281/zenodo.22816805)
 
 <table>
 <tr>
 <td width="50%">
 
-**Novel Contributions**
-- 🧠 **Runtime Anomaly Agent** — ReAct reasoning over multi-signal observability context
-- 🔀 **Multi-Signal Context Fusion** — Prometheus metrics + Loki logs + Jaeger traces unified
-- 🛡️ **Confidence-Gated Execution** (θ = 0.85) — safe autonomous `kubectl` remediation
-- 📡 **Live K8s Cluster Validation** on real workloads
+**Contributions**
+- 🧠 **Runtime Anomaly Agent** — ReAct reasoning with 5-way self-consistency voting
+- 🔀 **Multi-Signal Context Fusion** — Prometheus metrics + Loki logs + Jaeger traces into one schema
+- 🛡️ **Confidence-Gated Proposals** (θ = 0.85) — risk-stratified `kubectl` steps, operator-confirmed
+- 📡 **Live K8s Validation** — 6 scenarios × 5 runs = 330 monitoring cycles
+- 🔍 **Non-LLM Baseline + Ablation** — isolating what LLM reasoning actually adds
 
 </td>
 <td width="50%">
 
-**Results on Live Cluster**
+**Results on a Live Cluster**
 
 | Metric | Score |
 |--------|-------|
-| F1 Score | **0.86** |
-| MTTR | **30 seconds** |
-| RCA Accuracy | **82%** |
-| Autonomous Remediation | ✅ |
+| Pooled detection F1 | **0.965** |
+| False-positive rate | **0.0%** |
+| RCA accuracy (service) | **96%** |
+| RCA accuracy (joint) | **88%** |
+| Detection-to-Plan Latency | **41–97 s** |
+| Confidence calibration | **Brier 0.046** |
 
 </td>
 </tr>
 </table>
 
+**The honest headline:** a logistic-regression baseline on identical fused-context
+features matches the LLM at detection (F1 = 0.966 ± 0.030). The engineered context
+pipeline — not LLM reasoning — drives most raw accuracy. The LLM's real contribution
+is interpretable root-cause attribution and remediation generation. Every number
+above is reproducible from the public cycle records.
 ---
 
 ## 👨‍💻 About Me
@@ -135,7 +144,7 @@ fun_fact: Calm on the outside. Chaotic in my terminal. 🖥️
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🤖 | [AIOps K8s Framework](https://github.com/saadhussain07) | Multi-Agent LLM system for autonomous fault detection & remediation — **IEEE TNSM** | Python · LLM · Prometheus · Loki · Jaeger · K8s |
+| 🤖 | [AIOps K8s Framework](https://github.com/saadhussain07/fgcs-aiops-llm-agent) | Telemetry-driven LLM agent for fault detection & advisory remediation — **under review at FGCS (Elsevier)**, code + all 330 cycles of data public | Python · LLM · Prometheus · Loki · Jaeger · K8s |
 | 🌐 | [RocketDevOps](https://github.com/saadhussain07/devops_site) | Live DevOps learning platform — [rocketdevops.vercel.app](https://rocketdevops.vercel.app) | HTML · CSS · JS · Vercel |
 | 🦊 | [GitLab CI/CD Projects](https://github.com/saadhussain07/gitlab-cicd-projects) | Real pipelines on **self-hosted GitLab** — build, test, push, deploy | GitLab CI · Docker · Docker Hub |
 | ⚙️ | [Flask GitOps ArgoCD](https://github.com/saadhussain07/flask-gitops-argocd-kubernetes-Project) | End-to-end GitOps pipeline — image → registry → ArgoCD → K8s | Flask · Docker · Helm · ArgoCD |
