@@ -61,11 +61,7 @@
 </tr>
 </table>
 
-**The honest headline:** a logistic-regression baseline on identical fused-context
-features matches the LLM at detection (F1 = 0.966 ± 0.030). The engineered context
-pipeline — not LLM reasoning — drives most raw accuracy. The LLM's real contribution
-is interpretable root-cause attribution and remediation generation. Every number
-above is reproducible from the public cycle records.
+> **Key finding:** a logistic-regression baseline on identical features matches the LLM at detection (F1 = 0.966 ± 0.030). The context-fusion pipeline drives raw accuracy; the LLM adds root-cause attribution and remediation. All numbers reproducible from the public cycle records.
 ---
 
 ## 👨‍💻 About Me
