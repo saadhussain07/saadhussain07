@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Saad+Hussain;DevOps+Engineer+%7C+AIOps+Researcher;Cloud-Native+Builder+%7C+Kubernetes+%2B+LLMs;Building+Telemetry-Driven+Self-Healing+Systems" alt="Typing SVG" />>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Saad+Hussain;DevOps+%26+Cloud+Engineer;DevSecOps+%7C+Kubernetes+%7C+GitOps;AIOps+Researcher+%7C+LLMs+for+Cloud+Systems" alt="Typing SVG" />
 
 <br/>
 
-<h3>🚀 BS CS @ University of Lahore (Sargodha Campus) &nbsp;·&nbsp; Ex-Intern @ PITB Lahore</h3>
+<h3>🚀 BS CS @ University of Lahore (Sargodha Campus) &nbsp;·&nbsp; DevOps Intern ×2 @ PITB Lahore</h3>
 
 <br/>
 
@@ -26,65 +26,49 @@
 
 ---
 
-## 🔬 Research — *Under Review*
+## 🔬 Research
 
-> **"A Telemetry-Driven LLM-Agent Framework for Fault Detection and Advisory Remediation in Cloud-Native Kubernetes Systems"**
-> *Future Generation Computer Systems* (Elsevier) · Manuscript `FGCS-D-26-05108`
-> 📦 [Code & Data](https://github.com/saadhussain07/fgcs-aiops-llm-agent) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22816805.svg)](https://doi.org/10.5281/zenodo.22816805)
+> **"Where Does the Accuracy of LLM-Based Root-Cause Analysis Come From? An Empirical Study on Microservice Benchmarks"**
+> M. S. Hussain, A. Farrukh · *Under review, Empirical Software Engineering* (Springer)
+> 📦 [Replication package](https://github.com/saadhussain07/llm-rca-accuracy-study) · [Pre-registration record](https://github.com/saadhussain07/rca-benchmark-study) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23409452.svg)](https://doi.org/10.5281/zenodo.23409452)
 
-<table>
-<tr>
-<td width="50%">
+> **"Auditing an LLM AIOps Agent Against Its Own Safety Mechanisms"**
+> M. S. Hussain, M. A. Sultan, A. Farrukh · *Under review, Innovations in Systems and Software Engineering* (Springer)
+> 📦 [Code & Data](https://github.com/saadhussain07/llm-aiops-safety-audit) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22974350.svg)](https://doi.org/10.5281/zenodo.22974350)
 
-**Contributions**
-- 🧠 **Runtime Anomaly Agent** — ReAct reasoning with 5-way self-consistency voting
-- 🔀 **Multi-Signal Context Fusion** — Prometheus metrics + Loki logs + Jaeger traces into one schema
-- 🛡️ **Confidence-Gated Proposals** (θ = 0.85) — risk-stratified `kubectl` steps, operator-confirmed
-- 📡 **Live K8s Validation** — 6 scenarios × 5 runs = 330 monitoring cycles
-- 🔍 **Non-LLM Baseline + Ablation** — isolating what LLM reasoning actually adds
+> **"Fine-Tuning Lightweight Transformer Models for Text Classification: A Comparative Analysis of DistilBERT, BERT, and LSTM"**
+> H. Ali, M. Riaz, I. Ullah, M. S. Hussain, M. A. B. Sultan · *Journal of Engineering and Computational Intelligence Review*, 4(1), 2026 · [DOI](https://doi.org/10.63544/ggeppj73)
 
-</td>
-<td width="50%">
+> **Key findings:** in a pre-registered study on 360 benchmark fault cases with three open-weight LLMs, the agent's accuracy came mostly from the evidence its pipeline extracted, and one false sentence in the context misled every model tested. An audit of its safety mechanisms found that five-way voting changed no verdict and no state-changing command executed as written.
 
-**Results on a Live Cluster**
-
-| Metric | Score |
-|--------|-------|
-| Pooled detection F1 | **0.965** |
-| False-positive rate | **0.0%** |
-| RCA accuracy (service) | **96%** |
-| RCA accuracy (joint) | **88%** |
-| Detection-to-Plan Latency | **41–97 s** |
-| Confidence calibration | **Brier 0.046** |
-
-</td>
-</tr>
-</table>
-
-> **Key finding:** a logistic-regression baseline on identical features matches the LLM at detection (F1 = 0.966 ± 0.030). The context-fusion pipeline drives raw accuracy; the LLM adds root-cause attribution and remediation. All numbers reproducible from the public cycle records.
 ---
 
 ## 👨‍💻 About Me
 
 ```yaml
 name: Muhammad Saad Hussain
-role: DevOps Engineer & AIOps Researcher
+role: DevOps & Cloud Engineer · DevSecOps · AIOps Researcher
 location: Sargodha, Pakistan
 education: BS Computer Science @ University of Lahore
 
 currently:
   - Building intelligent self-healing cloud-native systems
-  - Exploring AIOps, MLOps, and DevSecOps
+  - Building secure GitOps delivery: scan, sign, admit, roll back
+  - SecAIOps: LLM-driven security anomaly detection (final-year project)
   - Maintaining RocketDevOps — a live learning platform for students
 
 experience:
   - company: PITB Lahore (Punjab IT Board)
-    role: Intern
+    role: DevOps Engineering Intern
     period: Sep – Oct 2025
+  - company: PITB Lahore (Punjab IT Board)
+    role: DevOps Engineering Intern
+    period: Aug – Sep 2026
 
 tools_i_use_daily:
   - Linux · Docker · Kubernetes · Helm · ArgoCD
-  - Terraform · Ansible · Jenkins · GitLab CI/CD
+  - Terraform · Ansible · Jenkins · GitLab CI/CD · GitHub Actions
+  - Trivy · Cosign · Kyverno · Falco
   - Prometheus · Grafana · Loki · Jaeger
   - AWS · Python · Bash
 
@@ -118,6 +102,15 @@ fun_fact: Calm on the outside. Chaotic in my terminal. 🖥️
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" title="Git"/>
 </p>
 
+### 🛡️ DevSecOps
+<p>
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" height="48" title="Trivy"/>
+  <img src="https://raw.githubusercontent.com/sigstore/community/main/artwork/cosign/horizontal/color/sigstore_cosign-horizontal-color.svg" alt="Cosign" height="48" title="Cosign"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="Kyverno" width="48" height="48" title="Kyverno"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/falco/icon/color/falco-icon-color.svg" alt="Falco" width="48" height="48" title="Falco"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="Argo Rollouts" width="48" height="48" title="Argo Rollouts"/>
+</p>
+
 ### 📊 Observability & AIOps
 <p>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="48" height="48" title="Prometheus"/>
@@ -136,11 +129,38 @@ fun_fact: Calm on the outside. Chaotic in my terminal. 🖥️
 
 ---
 
+## 🛡️ DevSecOps: DevBoard
+
+**Secure GitOps delivery platform**, built in 7 days for the TWS Phase 3 Hackathon (one of 10 finishers in the batch) · [Repository](https://github.com/saadhussain07/DEVBOARD-REPO-NAME)
+
+Every image is scanned, described (SBOM), signed and verified before it runs, and every release rolls itself back if it degrades.
+
+```mermaid
+flowchart LR
+    A[Push] --> B[GitHub Actions<br/>build & test]
+    B --> C[Trivy scan]
+    C --> D[SBOM]
+    D --> E[Cosign sign]
+    E --> F[Registry]
+    F --> G[ArgoCD sync]
+    G --> H{Kyverno<br/>policies}
+    H -- rejected --> X[Blocked]
+    H -- verified --> I[Argo Rollouts<br/>canary]
+    I --> J{Prometheus<br/>success rate}
+    J -- healthy --> K[Promote]
+    J -- degraded --> L[Auto rollback]
+    K --> M[DORA metrics]
+    L --> M
+```
+
+---
+
 ## 📌 Featured Projects
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🤖 | [AIOps K8s Framework](https://github.com/saadhussain07/fgcs-aiops-llm-agent) | Telemetry-driven LLM agent for fault detection & advisory remediation — **under review at FGCS (Elsevier)**, code + all 330 cycles of data public | Python · LLM · Prometheus · Loki · Jaeger · K8s |
+| 🛡️ | [DevBoard](https://github.com/saadhussain07/DEVBOARD-REPO-NAME) | Secure GitOps delivery — scan, SBOM, sign, policy-gated deploy, canary with auto-rollback, DORA metrics | GitHub Actions · Trivy · Cosign · Kyverno · ArgoCD · Argo Rollouts |
+| 🤖 | [AIOps K8s Framework](https://github.com/saadhussain07/fgcs-aiops-llm-agent) | Telemetry-driven LLM agent for fault detection & advisory remediation — the system studied in both papers under review, code + all cycle data public | Python · LLM · Prometheus · Loki · Jaeger · K8s |
 | 🌐 | [RocketDevOps](https://github.com/saadhussain07/devops_site) | Live DevOps learning platform — [rocketdevops.vercel.app](https://rocketdevops.vercel.app) | HTML · CSS · JS · Vercel |
 | 🦊 | [GitLab CI/CD Projects](https://github.com/saadhussain07/gitlab-cicd-projects) | Real pipelines on **self-hosted GitLab** — build, test, push, deploy | GitLab CI · Docker · Docker Hub |
 | ⚙️ | [Flask GitOps ArgoCD](https://github.com/saadhussain07/flask-gitops-argocd-kubernetes-Project) | End-to-end GitOps pipeline — image → registry → ArgoCD → K8s | Flask · Docker · Helm · ArgoCD |
@@ -179,7 +199,7 @@ Linux & Git  →  Docker  →  Kubernetes  →  CI/CD (Jenkins/GitLab)  →  Clo
      ↓
 IaC (Terraform + Ansible)  →  GitOps (ArgoCD)  →  Observability (Prometheus/Grafana/Loki)
      ↓
-                         🤖 AIOps  ← [ CURRENT FOCUS ]
+DevSecOps (Trivy · Cosign · Kyverno · Falco)  →  🤖 AIOps  ← [ CURRENT FOCUS ]
 ```
 
 ---
