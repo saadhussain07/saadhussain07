@@ -13,7 +13,6 @@
   <a href="https://github.com/saadhussain07?tab=followers">
     <img src="https://img.shields.io/github/followers/saadhussain07?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=saadhussain07&label=Profile+Views&color=0e75b6&style=for-the-badge" />
   <a href="https://orcid.org/0009-0003-9132-9986">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
