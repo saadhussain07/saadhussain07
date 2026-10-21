@@ -130,7 +130,7 @@ fun_fact: Calm on the outside. Chaotic in my terminal. 🖥️
 
 ## 🛡️ DevSecOps: DevBoard
 
-**Secure GitOps delivery platform**, built in 7 days for the TWS Phase 3 Hackathon (one of 10 finishers in the batch) · [Repository](https://github.com/saadhussain07/DEVBOARD-REPO-NAME)
+**Secure GitOps delivery platform**, built in 7 days for the TWS Phase 3 Hackathon (one of 10 finishers in the batch) · [Repository](https://github.com/saadhussain07/DEVBOARD)
 
 Every image is scanned, described (SBOM), signed and verified before it runs, and every release rolls itself back if it degrades.
 
